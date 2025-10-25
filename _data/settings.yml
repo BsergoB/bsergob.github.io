@@ -36,7 +36,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Serhii <br> QA Engineer and Software Developer
+  hero-title: Hi! I’m <br> Serhii <br> QA Engineer
 
 social:
   - { icon: "ti-facebook", link: "https://www.facebook.com/sergej.barylets" }
@@ -69,10 +69,10 @@ work-process:
     content: "Execute tests, document results, and provide detailed reports with actionable insights. I collaborate with developers and stakeholders to ensure a smooth release process and high product quality."
 
 # My Team Section
-team:
-  - title: "Jack Schenziwe"
-    image: "assets/images/team/member-1.png"
-    designation: "Project Manager"
+#team:
+#  - title: "Jack Schenziwe"
+#    image: "assets/images/team/member-1.png"
+#    designation: "Project Manager"
 
   #- title: "Julias Carlie"
    # image: "assets/images/team/member-2.png"
@@ -103,22 +103,22 @@ skills:
 experience-title: Experience
 experience:
   - {
-      name: Junior UX Designer,
+      name: Web Developer,
       icon: "icon-1.png",
-      date: "Jan 2007 - Feb 2009",
-      organization: "WEBEX",
+      date: "Sep 2014 - Jul 2015",
+      organization: "OSGA",
     }
   - {
-      name: UX & UI Designer,
+      name: Industrial Automation Service Engineer,
       icon: "icon-2.png",
-      date: "Mar 2009 - Aug 2014",
-      organization: "AUGMEDIX",
+      date: "Aug 2008 - Mar 2021",
+      organization: "NKMZ",
     }
   - {
-      name: Senior UI Designer,
+      name: QA Engineer,
       icon: "icon-3.png",
-      date: "Sep 2014 - Present",
-      organization: "THEMEFISHER",
+      date: "Mar 2021 - Present",
+      organization: "Independent Contractor",
     }
 
 #-------------------------------
@@ -126,26 +126,26 @@ experience:
 
 education-title: Education
 education:
+#  - {
+#      name: Marters in UX Design,
+#      date: "2006",
+#      organization: "Masassusets Institute of Technology",
+#    }
   - {
-      name: Marters in UX Design,
-      date: "2006",
-      organization: "Masassusets Institute of Technology",
+      name: Industrial automation engineering and computer-integrated technologies,
+      date: "2003-2008",
+      organization: "Donbas State Mechanical Engineering Academy",
     }
-  - {
-      name: Honours in Fine Arts,
-      date: "2004",
-      organization: "Harvard University",
-    }
-  - {
-      name: Higher Secondary Certificat,
-      date: "2000",
-      organization: "Cardiff School",
-    }
-  - {
-      name: Secondary School Certificate,
-      date: "1998",
-      organization: "Cardiff School",
-    }
+#  - {
+#      name: Higher Secondary Certificat,
+#      date: "2000",
+#      organization: "Cardiff School",
+#    }
+#  - {
+#      name: Secondary School Certificate,
+#      date: "1998",
+#      organization: "Cardiff School",
+#    }
 
 #-------------------------------
 # Services Section
