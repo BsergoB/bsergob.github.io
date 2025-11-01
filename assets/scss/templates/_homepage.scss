@@ -20,7 +20,7 @@
     background-color: rgba(255, 255, 255, .4);
     border-radius: 45%;
     transform: translateX(-50%) rotate(0);
-    animation: rotate 6s linear infinite;
+   /* animation: rotate 6s linear infinite; */
     z-index: 10;
   }
 
@@ -28,7 +28,7 @@
     border-radius: 47%;
     background-color: rgba(255, 255, 255, .9);
     transform: translateX(-50%) rotate(0);
-    animation: rotate 10s linear -5s infinite;
+  /*  animation: rotate 10s linear -5s infinite; */
     z-index: 20;
   }
 }
