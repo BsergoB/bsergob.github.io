@@ -89,9 +89,9 @@ skills-title: Skills
 skills:
   - { name: Manual Testing, color: "#fdb157", value: "95%" }
   - { name: API Testing (Postman, Swagger), color: "#9473e6", value: "90%" }
-  - { name: Test Automation (Python, Selenium, Playwright), color: "#bdecf6", value: "80%" }
+  - { name: Test Automation (Javascript, Typescript, Playwright), color: "#bdecf6", value: "80%" }
   - { name: Test Case Design & Execution, color: "#ffbcaa", value: "95%" }
-  - { name: Bug Tracking (Jira, YouTrack), color: "#a0e7e5", value: "85%" }
+  - { name: Bug Tracking (Jira, Monday), color: "#a0e7e5", value: "85%" }
   - { name: SDLC & Agile Methodologies, color: "#f9a1bc", value: "90%" }
   - { name: Version Control (Git, GitHub), color: "#ffd166", value: "80%" }
   - { name: CI/CD & QA Process Integration, color: "#8ecae6", value: "70%" }
@@ -181,77 +181,77 @@ services:
 # Portfolio (Section and Page)
 
 # Portfolio Home Section
-portfolio-home-items:
-  - image: "assets/images/portfolio/item-1.png"
-    url: "#"
+#portfolio-home-items:
+#  - image: "assets/images/portfolio/item-1.png"
+#    url: "#"
 
-  - image: "assets/images/portfolio/item-2.png"
-    url: "#"
+#  - image: "assets/images/portfolio/item-2.png"
+#    url: "#"
 
-  - image: "assets/images/portfolio/item-3.png"
-    url: "#"
+#  - image: "assets/images/portfolio/item-3.png"
+#    url: "#"
 
-  - image: "assets/images/portfolio/item-4.png"
-    url: "#"
+#  - image: "assets/images/portfolio/item-4.png"
+#    url: "#"
 
-  - image: "assets/images/portfolio/item-5.png"
-    url: "#"
+#  - image: "assets/images/portfolio/item-5.png"
+#    url: "#"
 
 # Portfolio Page
-portfolio-label:
-  - { title: "UI/UX Design", type: "design" }
-  - { title: "BRANDING", type: "branding" }
-  - { title: "ILLUSTRATION", type: "illustration" }
+#portfolio-label:
+#  - { title: "UI/UX Design", type: "design" }
+#  - { title: "BRANDING", type: "branding" }
+#  - { title: "ILLUSTRATION", type: "illustration" }
 
-portfolio-items:
-  - image: "assets/images/portfolio/item-1.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "illustration"
+#portfolio-items:
+#  - image: "assets/images/portfolio/item-1.png"
+#    url: "#"
+#    portfolio-type:
+#      - type: "design"
+ #     - type: "illustration"
 
-  - image: "assets/images/portfolio/item-2.png"
-    url: "#"
-    portfolio-type:
-      - type: "branding"
+#  - image: "assets/images/portfolio/item-2.png"
+#    url: "#"
+#    portfolio-type:
+#      - type: "branding"
 
-  - image: "assets/images/portfolio/item-3.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
+#  - image: "assets/images/portfolio/item-3.png"
+#    url: "#"
+#    portfolio-type:
+#      - type: "illustration"
 
-  - image: "assets/images/portfolio/item-6.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "branding"
+#  - image: "assets/images/portfolio/item-6.png"
+#    url: "#"
+#    portfolio-type:
+ #     - type: "design"
+#      - type: "branding"
 
-  - image: "assets/images/portfolio/item-8.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
+#  - image: "assets/images/portfolio/item-8.png"
+#    url: "#"
+#    portfolio-type:
+#      - type: "illustration"
 
-  - image: "assets/images/portfolio/item-5.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
+#  - image: "assets/images/portfolio/item-5.png"
+#    url: "#"
+#    portfolio-type:
+#      - type: "design"
+#
+#  - image: "assets/images/portfolio/item-1.png"
+#    url: "#"
+#    portfolio-type:
+#      - type: "branding"
 
-  - image: "assets/images/portfolio/item-1.png"
-    url: "#"
-    portfolio-type:
-      - type: "branding"
+#  - image: "assets/images/portfolio/item-3.png"
+#    url: "#"
+#    portfolio-type:
+#      - type: "design"
+#      - type: "illustration"
+#      - type: "branding"
 
-  - image: "assets/images/portfolio/item-3.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "illustration"
-      - type: "branding"
-
-  - image: "assets/images/portfolio/item-7.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
+#  - image: "assets/images/portfolio/item-7.png"
+#    url: "#"
+#    portfolio-type:
+#      - type: "illustration"
 
 #-------------------------------
 # Testimonials Section
