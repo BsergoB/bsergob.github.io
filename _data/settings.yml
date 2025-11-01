@@ -87,15 +87,17 @@ work-process:
 
 skills-title: Skills
 skills:
-  - { name: Manual Testing, color: "#fdb157", value: "95%" }
-  - { name: API Testing (Postman, Swagger), color: "#9473e6", value: "90%" }
-  - { name: Test Automation (Javascript, Typescript, Playwright), color: "#bdecf6", value: "80%" }
-  - { name: Test Case Design & Execution, color: "#ffbcaa", value: "95%" }
-  - { name: Bug Tracking (Jira, Monday), color: "#a0e7e5", value: "85%" }
-  - { name: SDLC & Agile Methodologies, color: "#f9a1bc", value: "90%" }
-  - { name: Version Control (Git, GitHub), color: "#ffd166", value: "80%" }
-  - { name: CI/CD & QA Process Integration, color: "#8ecae6", value: "70%" }
-  - { name: Communication & Collaboration, color: "#caffbf", value: "95%" }
+  skills:
+  - { name: Manual Testing, color: "#f6d7b0", value: "95%" }            # soft warm beige
+  - { name: API Testing (Postman, Swagger), color: "#cbb7f0", value: "90%" }  # pastel lavender
+  - { name: Test Automation (Javascript, Typescript, Playwright), color: "#cfeaf4", value: "80%" }  # gentle sky blue
+  - { name: Test Case Design & Execution, color: "#fcd5ce", value: "95%" }    # pale peach
+  - { name: Bug Tracking (Jira, Monday), color: "#d3f5f2", value: "85%" }     # mint turquoise
+  - { name: SDLC & Agile Methodologies, color: "#f6c1d5", value: "90%" }      # soft rose pink
+  - { name: Version Control (Git, GitHub), color: "#faedcb", value: "80%" }   # light sand
+  - { name: CI/CD & QA Process Integration, color: "#d0e7f9", value: "70%" }  # soft pastel blue
+  - { name: Communication & Collaboration, color: "#e0f7cf", value: "95%" }   # pastel green
+
 
 #-------------------------------
 # Exprerience Section
