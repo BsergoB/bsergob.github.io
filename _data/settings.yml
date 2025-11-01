@@ -157,25 +157,25 @@ services:
       name: Test Automation,
       icon: ti-settings,
       description: "I build robust and scalable automated test suites for web and mobile apps using frameworks like WebdriverIO and Playwright. This accelerates release cycles and ensures long-term quality.",
-      active: true, # Add true to select section
+      active: , # Add true to select section
     }
   - {
       name: Manual & Exploratory Testing,
       icon: ti-check-box,
       description: "I provide thorough manual testing to uncover critical bugs and usability issues that automation can miss, ensuring an intuitive and bug-free user experience.",
-      active: ,# Add true to select section
+      active: true, # Add true to select section
     }
   - {
       name: API Testing,
       icon: ti-server,
       description: "I perform in-depth testing of your API endpoints to verify functionality, reliability, and security. This ensures the backbone of your application is stable and communicates correctly.",
-      active: ,# Add true to select section
+      active: , # Add true to select section
     }
   - {
       name: QA Strategy & Planning,
       icon: ti-direction,
       description: "I help define a clear QA process, create comprehensive test plans, and manage documentation. A solid strategy ensures efficient testing and alignment with business goals.",
-      active: ,# Add true to select section
+      active: , # Add true to select section
     }
 
 #-------------------------------
